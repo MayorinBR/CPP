@@ -1,0 +1,21 @@
+﻿  AI.cpp
+C:\Users\victo\Desktop\Othelo\Othelo\AI.cpp(20,16): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+C:\Users\victo\Desktop\Othelo\Othelo\AI.cpp(20,16): warning C4244:         with
+C:\Users\victo\Desktop\Othelo\Othelo\AI.cpp(20,16): warning C4244:         [
+C:\Users\victo\Desktop\Othelo\Othelo\AI.cpp(20,16): warning C4244:             _Rep=std::chrono::system_clock::rep
+C:\Users\victo\Desktop\Othelo\Othelo\AI.cpp(20,16): warning C4244:         ]
+  Cheats.cpp
+  Main.cpp
+  Sound.cpp
+  Title.cpp
+C:\Users\victo\Desktop\Othelo\Othelo\Title.cpp(79,33): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Othelo.vcxproj -> C:\Users\victo\Desktop\Othelo\x64\Debug\Othelo.exe
+  C:\Users\victo\Desktop\Othelo\Othelo\External\SDL2\lib\x64\SDL2.dll
+  1 File(s) copied
+  C:\Users\victo\Desktop\Othelo\Othelo\External\SDL2_image\lib\x64\SDL2_image.dll
+  1 File(s) copied
+  C:\Users\victo\Desktop\Othelo\Othelo\External\SDL2_mixer\lib\x64\SDL2_mixer.dll
+  1 File(s) copied
+  C:\Users\victo\Desktop\Othelo\Othelo\External\SDL2_ttf\lib\x64\SDL2_ttf.dll
+  1 File(s) copied
