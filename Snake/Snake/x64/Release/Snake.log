@@ -1,0 +1,26 @@
+﻿  Highscore.cpp
+  LanguageManager.cpp
+  Main.cpp
+C:\Users\victo\Desktop\Snake\Snake\Main.cpp(220,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\victo\Desktop\Snake\Snake\Main.cpp(228,24): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\victo\Desktop\Snake\Snake\Main.cpp(232,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\victo\Desktop\Snake\Snake\Main.cpp(748,36): warning C4244: 'argument': conversion from '__int64' to 'Uint32', possible loss of data
+  Settings.cpp
+  Sound.cpp
+  Title.cpp
+C:\Users\victo\Desktop\Snake\Snake\Title.cpp(353,97): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\victo\Desktop\Snake\Snake\Title.cpp(354,96): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\victo\Desktop\Snake\Snake\Title.cpp(387,23): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1131 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Snake.vcxproj -> C:\Users\victo\Desktop\Snake\x64\Release\Snake.exe
+  C:\Users\victo\Desktop\Snake\Snake\External\SDL2\lib\x64\SDL2.dll
+  1 File(s) copied
+  C:\Users\victo\Desktop\Snake\Snake\External\SDL2_image\lib\x64\SDL2_image.dll
+  1 File(s) copied
+  C:\Users\victo\Desktop\Snake\Snake\External\SDL2_mixer\lib\x64\SDL2_mixer.dll
+  1 File(s) copied
+  C:\Users\victo\Desktop\Snake\Snake\External\SDL2_ttf\lib\x64\SDL2_ttf.dll
+  1 File(s) copied
